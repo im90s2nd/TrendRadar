@@ -1,15 +1,11 @@
+社会
+民生
+政策
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-字节
-bytedance
-张一鸣
+财经
+股市
+新易盛
+天孚通信
 
 特斯拉
 马斯克
@@ -18,19 +14,13 @@ bytedance
 NVIDIA
 黄仁勋
 
-AMD
-
 谷歌
 google
 gemini
-deepmind
-
 chatgpt
 openai
 sora
-
 claude
-Anthropic
 
 ai
 !gai
@@ -38,23 +28,13 @@ ai
 
 自动驾驶
 
-机器人
-
-国产
-中国
-
-美国
-日本
-
+科技
 芯片
 光刻机
 光模块
-
-科技
+机器人
 
 核能
-
 水电站
 雅鲁藏布江
 
-新质生产力
